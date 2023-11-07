@@ -1,5 +1,4 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:17:04	207/207	------	404	error ('NOT%20FOUND')	text/html	date:Tue,%2007%20Nov%202023%2020:00:02%20GMT	http://127.0.0.1:5000/robots.txt		(from )
-15:17:04	13501/13501	------	500	error ('INTERNAL%20SERVER%20ERROR')	text/html	date:Tue,%2007%20Nov%202023%2020:00:03%20GMT	http://127.0.0.1:5000/	C:/Users/skycr/Desktop/Repo1/webtex/AlexH-736.github.io/127.0.0.1_5000/index.html	(from )
-15:17:04	13501/13501	------	500	error ('INTERNAL%20SERVER%20ERROR')	text/html	date:Tue,%2007%20Nov%202023%2020:00:03%20GMT	http://127.0.0.1:5000/	C:/Users/skycr/Desktop/Repo1/webtex/AlexH-736.github.io/127.0.0.1_5000/index.html	(from )
-15:17:04	13501/13501	------	500	error ('INTERNAL%20SERVER%20ERROR')	text/html	date:Tue,%2007%20Nov%202023%2020:00:03%20GMT	http://127.0.0.1:5000/	C:/Users/skycr/Desktop/Repo1/webtex/AlexH-736.github.io/127.0.0.1_5000/index.html	(from )
+15:23:04	1699/1699	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2007%20Nov%202023%2020:23:03%20GMT	http://altostrat.com/robots.txt		(from )
+15:23:04	1963/1963	---M-Z	200	added ('OK')	text/html	etag:%22162c0c-7ab-5cee4f05d715d-gzip%22	http://altostrat.com/	C:/Users/skycr/Desktop/Repo1/webtex/AlexH-736.github.io/altostrat.com/index.html	(from )
+15:23:05	0/0	---MC-	301	error ('Moved%20Permanently')	application/cgi	date:Tue,%2007%20Nov%202023%2020:23:04%20GMT	http://altostrat.com/cpanel	C:/Users/skycr/Desktop/Repo1/webtex/AlexH-736.github.io/altostrat.com/cpanel	(from http://altostrat.com/)
