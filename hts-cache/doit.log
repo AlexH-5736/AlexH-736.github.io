@@ -1,5 +1,5 @@
-http://altostrat.com/ -O "C:\\Users\\skycr\\Desktop\\Repo1\\webtex\\AlexH-736.github.io" -v
-File generated automatically on Tue, 07 Nov 2023 15:45:31, do NOT edit
+http://127.0.0.1:5000/ -O "C:\\Users\\skycr\\Desktop\\Repo1\\webtex\\AlexH-736.github.io" -v
+File generated automatically on Tue, 07 Nov 2023 16:37:02, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
