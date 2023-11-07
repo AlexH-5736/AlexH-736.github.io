@@ -1,5 +1,5 @@
-https://www.example.com/ -O "C:/Users/skycr/Desktop/New folder (2)" -v
-File generated automatically on Fri, 20 Oct 2023 15:58:24, do NOT edit
+http://127.0.0.1:5000/ -O "C:\\Users\\skycr\\Desktop\\Repo1\\webtex\\AlexH-736.github.io" -v
+File generated automatically on Tue, 07 Nov 2023 15:15:18, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
