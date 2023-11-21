@@ -1,0 +1,8 @@
+Uri: http://127.0.0.1:5000/help
+File Name: C:\Users\skycr\Desktop\Repo1\webtex\AlexH-736.github.io\web\homesz\help.html
+Content Type: text/html
+
+Uri: http://127.0.0.1:5000/static/help.css
+File Name: C:\Users\skycr\Desktop\Repo1\webtex\AlexH-736.github.io\web\homesz\static\help.css
+Content Type: text/css
+
