@@ -1,4 +1,0 @@
-Uri: http://localhost/
-File Name: C:\Users\skycr\Desktop\Repo1\webtex\AlexH-736.github.io\web\localhost\index.htm
-Content Type: text/html
-
