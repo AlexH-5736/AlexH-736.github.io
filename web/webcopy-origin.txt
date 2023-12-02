@@ -14,3 +14,7 @@ Uri: http://127.0.0.1:5000/static/index.js
 File Name: C:\Users\skycr\Desktop\Repo1\webtex\AlexH-736.github.io\web\static\index.js
 Content Type: application/javascript
 
+Uri: http://127.0.0.1:5000/static/menu.svg
+File Name: C:\Users\skycr\Desktop\Repo1\webtex\AlexH-736.github.io\web\static\menu.svg
+Content Type: image/svg+xml
+
